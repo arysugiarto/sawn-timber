@@ -1,47 +1,61 @@
-📦 Sawn Timber Mobile
+🍎 Sawn Timber Mobile (iOS)
 
-Aplikasi Sawn Timber Mobile adalah solusi digital untuk mempermudah proses pencatatan, pemantauan, dan manajemen data kayu gergajian secara mobile.
-Proyek ini dibuat menggunakan Android (Kotlin, Jetpack Compose) dengan arsitektur modern untuk mendukung pengembangan yang scalable dan maintainable.
+Aplikasi Sawn Timber Mobile (iOS) adalah solusi digital untuk pencatatan, pemantauan, dan manajemen data kayu gergajian secara mobile di platform iOS.
+Dibangun menggunakan Swift + SwiftUI dengan arsitektur modern agar scalable dan mudah di-maintain.
 
+📸 Screenshots
+<p align="center"> <img src="assets/screenshots/home.png" alt="Home Screen" width="250"/> <img src="assets/screenshots/detail.png" alt="Detail Screen" width="250"/> <img src="assets/screenshots/upload.png" alt="Upload Screen" width="250"/> </p>
 ✨ Fitur Utama
 
 📱 Manajemen Data: Tambah, edit, hapus, dan lihat data kayu.
 
-📷 Upload Dokumen & Foto: Dukungan kamera dan galeri dengan crop.
+📷 Upload Dokumen & Foto: Dukungan kamera & galeri dengan crop.
 
-📊 Dashboard Monitoring: Statistik perkembangan data.
+📊 Dashboard Monitoring: Statistik perkembangan data kayu.
 
-🔍 Pencarian & Filter: Mudah menemukan data kayu berdasarkan kategori.
+🔍 Pencarian & Filter: Cari data dengan mudah berdasarkan kategori.
 
-💾 Offline Support: Data tersimpan di lokal dengan Room Database.
+💾 Offline Support: Data disimpan secara lokal menggunakan Core Data.
 
 🚀 Tech Stack
 
-Kotlin
+Swift
 
-Jetpack Compose
+SwiftUI
 
-Room Database
+Combine
 
-ViewModel + Use Case + Repository Pattern
+Core Data
+
+MVVM Architecture
 
 🛠️ Cara Menjalankan
 
 Clone repository ini:
 
-git clone https://github.com/username/sawn-timber-mobile.git
-cd sawn-timber-mobile
+git clone https://github.com/username/sawn-timber-ios.git
+cd sawn-timber-ios
 
 
-Buka project di Android Studio (Arctic Fox atau lebih baru)
+Buka project di Xcode 14 atau lebih baru
 
-Sync Gradle dan jalankan aplikasi di emulator/device
+Pilih target device (iPhone/iPad)
+
+Klik Run ▶️ untuk menjalankan aplikasi
 
 🤝 Kontribusi
 
-Kontribusi sangat terbuka! Silakan fork repo ini, buat branch baru, lalu ajukan pull request.
+Kontribusi sangat terbuka!
+
+Fork repository ini
+
+Buat branch baru (feature/nama-fitur)
+
+Lakukan perubahan & commit
+
+Ajukan Pull Request
 
 📄 Lisensi
 
-Proyek ini menggunakan lisensi MIT
+Proyek ini dilisensikan di bawah MIT License
 .
