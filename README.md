@@ -4,7 +4,14 @@ Aplikasi Sawn Timber Mobile (iOS) adalah solusi digital untuk pencatatan, pemant
 Dibangun menggunakan Swift + SwiftUI dengan arsitektur modern agar scalable dan mudah di-maintain.
 
 📸 Screenshots
-<p align="center"> <img src="assets/screenshots/home.png" alt="Home Screen" width="250"/> <img src="assets/screenshots/detail.png" alt="Detail Screen" width="250"/> <img src="assets/screenshots/upload.png" alt="Upload Screen" width="250"/> </p>
+<p align="center"> 
+  <img src="1.png" alt="Home Screen" width="250"/> 
+  <img src="2.png" alt="Detail Screen" width="250"/>
+  <img src="3.png" alt="Upload Screen" width="250"/> 
+   <img src="4.png" alt="Upload Screen" width="250"/> 
+   <img src="5.png" alt="Upload Screen" width="250"/> 
+   <img src="6.png" alt="Upload Screen" width="250"/> 
+</p>
 ✨ Fitur Utama
 
 📱 Manajemen Data: Tambah, edit, hapus, dan lihat data kayu.
